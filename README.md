@@ -4,11 +4,7 @@ preview
 <h1 align="center">Hi 👋, I'm Hasib</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain-hasib&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain-hasib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnain-hasib" alt="hasnain-hasib" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/hasnainhasib" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hasnainhasib?logo=twitter&style=for-the-badge" alt="https://twitter.com/hasnainhasib" /></a> </p>
 
 - 🌱 I’m currently learning **AI & Machine Learning**
 
