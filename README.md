@@ -3,7 +3,7 @@
 
 
 
-- 🌱 **Deep leanring | Machine Learning | Web devlopment| 3D Modeling **
+- 🌱 **Deep Learning | Machine Learning | Web & Mobile App Development| 3D Modeling **
 
 - 💬 Ask me about **Python, C++, Jetson Nano ,Deep earning & IoT**
 
