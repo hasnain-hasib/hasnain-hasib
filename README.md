@@ -1,18 +1,13 @@
-
-
-preview
-<h1 align="center">Hi 👋, I'm Hasib</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h1 align="center">Hasnain Hasib</h1>
+<h3 align="center">A passionate Engineer from Bangladesh</h3>
 
 
 
-- 🌱 **AI & Machine Learning & Web devlopment**
+- 🌱 **AI | Machine Learning | Web devlopment**
 
-- 💬 Ask me about **Python, C++, Jetson Nano , IoT**
+- 💬 Ask me about **Python, C++, Jetson Nano ,Deep earning & IoT**
 
-- 📫 How to reach me **hasibjoy332@gmail.com**
-
-- ⚡ Fun fact **I like to play Video Games and Guiter**
+- 📫 Reach me **hasibjoy332@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
