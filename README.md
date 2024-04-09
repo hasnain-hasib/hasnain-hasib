@@ -3,11 +3,11 @@
 
 
 
-- 🌱 **Deep Learning | Machine Learning | Web & Mobile App Development| 3D Modeling **
+Deep Learning | Machine Learning | Web & Mobile App Development| 3D Modeling 
 
-- 💬 Ask me about **Python, C++, Jetson Nano ,Deep earning & IoT**
+Ask me about **Python, C++, Jetson Nano ,Deep earning & IoT
 
-- 📫 Reach me **hasibjoy332@gmail.com**
+Reach me **hasibjoy332@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
