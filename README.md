@@ -5,7 +5,7 @@
 
 Deep Learning | Machine Learning | Web & Mobile App Development| 3D Modeling 
 
-Ask me about **Python, C++, Jetson Nano ,Deep earning & IoT
+Ask me about  Python | C++ | Jetson Nano | Deep Learning & IoT
 
 Reach me **hasibjoy332@gmail.com**
 
